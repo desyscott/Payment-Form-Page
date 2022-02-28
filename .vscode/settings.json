@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "lname"
+    ],
+    "editor.formatOnSave": true,
+    "prettier.useTabs": true,
+    "prettier.endOfLine": "auto",
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+}
